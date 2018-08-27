@@ -56,7 +56,8 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
+ - selpathor/geniusCreator
+ - selpathor/Calendar-Attempt-1
 
 #Stackoverflow flair is optional
 stackoverflow:
